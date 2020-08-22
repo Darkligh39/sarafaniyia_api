@@ -102,4 +102,4 @@ fail response data for all requests
     ]
 }
 
-all request data in json format and used http POST method
+all request data in json format and use http POST method
