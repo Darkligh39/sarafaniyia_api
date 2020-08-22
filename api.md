@@ -71,7 +71,7 @@ request data
 
 #sex
 #0 - male
-#1- female 
+#1 - female 
 
 success response data
 {
@@ -82,6 +82,7 @@ success response data
 }
 
 ------------------------------------------------------------------------------------------------------------------------
+
 COMMON
 
 fail response data for all requests 
