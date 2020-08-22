@@ -82,6 +82,7 @@ success response data
 }
 
 ------------------------------------------------------------------------------------------------------------------------
+COMMON
 
 fail response data for all requests 
 
@@ -99,3 +100,5 @@ fail response data for all requests
         ............
     ]
 }
+
+all request data in json format and used http POST method
