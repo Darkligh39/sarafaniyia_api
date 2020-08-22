@@ -93,6 +93,17 @@ fail response data for all requests
     "msg": "some string"
 }
 
+or 
+
+{
+    "status": false,
+     "msg": [
+        "some string",
+    ]
+
+}
+
+
 2) if many errors  
 {
     "status": false, 
