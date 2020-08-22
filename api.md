@@ -103,3 +103,5 @@ fail response data for all requests
 }
 
 all request data in json format and use http POST method
+
+domain for tests http://test.sarafaniyia.ru
